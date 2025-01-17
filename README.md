@@ -1,12 +1,12 @@
 # SilverMoonLight Studios 
 
-![ScreenShot](OverviewPic.PNG)
-
-
+![ScreenShot](SilverMoonLight.png)
 
 The works and offerings from SilverMoonLight Studios.
 
 ## Low Poly Casual Game Development
+
+![ScreenShot](LeoFarm.PNG)
 
 - Leos Farm Adventure (https://simmer.io/@JulesWombat/leo-s-little-farm)
 - Farm Wars (Utilising the Unity RTS Framework) (https://simmer.io/@JulesWombat/farm-wars)
@@ -19,18 +19,19 @@ These are developed in Unity, and typically availbale on Simmer IO type platform
 
 The research into the use of Reinforcement learning Algorithms.  The concept, design and development details into this RL research can be found on the other GIT repositories, sibling to this one.   
 
-![ScreenShot](RLPic.PNG)
+![ScreenShot](GrandPrix.PNG)
 
 - Grand Prix Racing at Spa: The development of an RL Racing Car (https://github.com/JulesVerny/MLAgentsAtSpa)
 - Duff Ball Team Play. Teams of ML-Agents learn to play each other to win at DuffBall. (https://github.com/JulesVerny/DuffBallML)
 - Prisoner BreakOut.  Coolaborative ML-Agent learning to break out of Prison. (https://github.com/JulesVerny/WallBreakout)
+
+![ScreenShot](CyberManSense.png)
 
   ## Classical Reinfrocement Learning (Without ML-Agents) 
 - Self Learning Sim Town Agents (https://github.com/JulesVerny/SelflearnSimTown)
 - Ballistic RNN Predictions. Predicting Ballsitic shots using basic RNN networks. (https://github.com/JulesVerny/BallisticsRNNPredictions)
 - Learning to Play Pong, through Convolutional and DQN Nueral Networks. (https://github.com/JulesVerny/PongConvolutionalDQN)
 - Learning to Play Pong, through base DQN Nueral Networks. (https://github.com/JulesVerny/PongReinforcementLearning))
-
 
 
 ## OpenAI Enhanced Game Environments 
@@ -41,7 +42,7 @@ Calling into OPEN AI APi from Unity Game environments for enhanced Conversationa
 
 
 ## Low Poly 3D Model Assets
-![ScreenShot](JodrellBankPic.PNG)
+![ScreenShot](LowPolyJodrellBank.PNG)
 
 The offering of basic low poly 3D assets for casual and mobile games. Typically modelled within Blnder and exported via .fbx models for use in games. 
 
